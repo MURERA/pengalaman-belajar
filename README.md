@@ -7,5 +7,9 @@ sudah menyelesaikan 2 dari 3 matrikulasi :
 
 **20 Januari 2026**<br>
 masuk ke kelas matrikulasi terakhir :
-1. Belajar Dasar Git dengan GitHub (38%)
+Belajar Dasar Git dengan GitHub (38%)
 * masuk ke tahap membuat repository dan membuat readme.md
+
+**21 Januari 2026**<br>
+meneyelesaikan  kelas matrikulasi terakhir :
+Belajar Dasar Git dengan GitHub (100%)
